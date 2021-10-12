@@ -9,6 +9,7 @@ import java.util.Set;
 public class JedisDemo1 {
 
     public static void main(String[] args) {
+        // dev test
         //创建Jedis对象
         Jedis jedis = new Jedis("192.168.44.168",6379);
         //测试
